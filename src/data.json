@@ -1,6 +1,6 @@
 [{
   "id": 1,
-  "first_name": "Em",
+  "name": "Em",
   "gender": "Female",
   "state": "Louisiana",
   "color": "#180",
@@ -9,7 +9,7 @@
   "year": 2007
 }, {
   "id": 2,
-  "first_name": "Cornie",
+  "name": "Cornie",
   "gender": "Female",
   "state": "Illinois",
   "color": "#f14",
@@ -18,7 +18,7 @@
   "year": 1994
 }, {
   "id": 3,
-  "first_name": "Frederico",
+  "name": "Frederico",
   "gender": "Male",
   "state": "Kentucky",
   "color": "#3fb",
@@ -27,7 +27,7 @@
   "year": 2004
 }, {
   "id": 4,
-  "first_name": "Melisent",
+  "name": "Melisent",
   "gender": "Female",
   "state": "Texas",
   "color": "#172",
@@ -36,7 +36,7 @@
   "year": 1999
 }, {
   "id": 5,
-  "first_name": "Karim",
+  "name": "Karim",
   "gender": "Male",
   "state": "New Jersey",
   "color": "#2b7",
@@ -45,7 +45,7 @@
   "year": 2010
 }, {
   "id": 6,
-  "first_name": "Valdemar",
+  "name": "Valdemar",
   "gender": "Female",
   "state": "California",
   "color": "#57e",
@@ -54,7 +54,7 @@
   "year": 2009
 }, {
   "id": 7,
-  "first_name": "Emelda",
+  "name": "Emelda",
   "gender": "Male",
   "state": "Kentucky",
   "color": "#bb6",
@@ -63,7 +63,7 @@
   "year": 2006
 }, {
   "id": 8,
-  "first_name": "Irvin",
+  "name": "Irvin",
   "gender": "Male",
   "state": "Florida",
   "color": "#06d",
@@ -72,7 +72,7 @@
   "year": 2009
 }, {
   "id": 9,
-  "first_name": "Nadeen",
+  "name": "Nadeen",
   "gender": "Male",
   "state": "New York",
   "color": "#819",
@@ -81,7 +81,7 @@
   "year": 1996
 }, {
   "id": 10,
-  "first_name": "Kaia",
+  "name": "Kaia",
   "gender": "Male",
   "state": "Nevada",
   "color": "#109",
@@ -90,7 +90,7 @@
   "year": 2013
 }, {
   "id": 11,
-  "first_name": "Isabella",
+  "name": "Isabella",
   "gender": "Male",
   "state": "Illinois",
   "color": "#897",
@@ -99,7 +99,7 @@
   "year": 2005
 }, {
   "id": 12,
-  "first_name": "Dianna",
+  "name": "Dianna",
   "gender": "Female",
   "state": "South Carolina",
   "color": "#140",
@@ -108,7 +108,7 @@
   "year": 2011
 }, {
   "id": 13,
-  "first_name": "Hazlett",
+  "name": "Hazlett",
   "gender": "Female",
   "state": "Connecticut",
   "color": "#382",
@@ -117,7 +117,7 @@
   "year": 1996
 }, {
   "id": 14,
-  "first_name": "Lil",
+  "name": "Lil",
   "gender": "Male",
   "state": "Delaware",
   "color": "#467",
@@ -126,7 +126,7 @@
   "year": 2010
 }, {
   "id": 15,
-  "first_name": "Wald",
+  "name": "Wald",
   "gender": "Female",
   "state": "Utah",
   "color": "#e03",
@@ -135,7 +135,7 @@
   "year": 2009
 }, {
   "id": 16,
-  "first_name": "Dareen",
+  "name": "Dareen",
   "gender": "Female",
   "state": "District of Columbia",
   "color": "#280",
@@ -144,7 +144,7 @@
   "year": 2009
 }, {
   "id": 17,
-  "first_name": "Johanna",
+  "name": "Johanna",
   "gender": "Male",
   "state": "Missouri",
   "color": "#4f7",
@@ -153,7 +153,7 @@
   "year": 1985
 }, {
   "id": 18,
-  "first_name": "Steffen",
+  "name": "Steffen",
   "gender": "Male",
   "state": "South Carolina",
   "color": "#d01",
@@ -162,7 +162,7 @@
   "year": 1999
 }, {
   "id": 19,
-  "first_name": "Ingar",
+  "name": "Ingar",
   "gender": "Female",
   "state": "New Jersey",
   "color": "#3b7",
@@ -171,7 +171,7 @@
   "year": 1986
 }, {
   "id": 20,
-  "first_name": "Nyssa",
+  "name": "Nyssa",
   "gender": "Female",
   "state": "Pennsylvania",
   "color": "#1c7",
@@ -180,7 +180,7 @@
   "year": 2004
 }, {
   "id": 21,
-  "first_name": "Townsend",
+  "name": "Townsend",
   "gender": "Male",
   "state": "Georgia",
   "color": "#24e",
@@ -189,7 +189,7 @@
   "year": 1968
 }, {
   "id": 22,
-  "first_name": "Lucretia",
+  "name": "Lucretia",
   "gender": "Female",
   "state": "Minnesota",
   "color": "#dc9",
@@ -198,7 +198,7 @@
   "year": 2004
 }, {
   "id": 23,
-  "first_name": "Kailey",
+  "name": "Kailey",
   "gender": "Male",
   "state": "Ohio",
   "color": "#5a2",
@@ -207,7 +207,7 @@
   "year": 1993
 }, {
   "id": 24,
-  "first_name": "Rozalie",
+  "name": "Rozalie",
   "gender": "Male",
   "state": "Nebraska",
   "color": "#219",
@@ -216,7 +216,7 @@
   "year": 2005
 }, {
   "id": 25,
-  "first_name": "Sofie",
+  "name": "Sofie",
   "gender": "Male",
   "state": "California",
   "color": "#f38",
@@ -225,7 +225,7 @@
   "year": 1993
 }, {
   "id": 26,
-  "first_name": "Jammie",
+  "name": "Jammie",
   "gender": "Female",
   "state": "North Carolina",
   "color": "#b77",
@@ -234,7 +234,7 @@
   "year": 2011
 }, {
   "id": 27,
-  "first_name": "Ted",
+  "name": "Ted",
   "gender": "Male",
   "state": "Texas",
   "color": "#fa5",
@@ -243,7 +243,7 @@
   "year": 2009
 }, {
   "id": 28,
-  "first_name": "Lynne",
+  "name": "Lynne",
   "gender": "Male",
   "state": "Texas",
   "color": "#171",
@@ -252,7 +252,7 @@
   "year": 1993
 }, {
   "id": 29,
-  "first_name": "Bard",
+  "name": "Bard",
   "gender": "Male",
   "state": "California",
   "color": "#310",
@@ -261,7 +261,7 @@
   "year": 1999
 }, {
   "id": 30,
-  "first_name": "Carl",
+  "name": "Carl",
   "gender": "Female",
   "state": "District of Columbia",
   "color": "#fd2",
@@ -270,7 +270,7 @@
   "year": 2005
 }, {
   "id": 31,
-  "first_name": "Nina",
+  "name": "Nina",
   "gender": "Male",
   "state": "Illinois",
   "color": "#be5",
@@ -279,7 +279,7 @@
   "year": 1987
 }, {
   "id": 32,
-  "first_name": "Jesse",
+  "name": "Jesse",
   "gender": "Genderqueer",
   "state": "Indiana",
   "color": "#05f",
@@ -288,7 +288,7 @@
   "year": 2006
 }, {
   "id": 33,
-  "first_name": "Danya",
+  "name": "Danya",
   "gender": "Male",
   "state": "District of Columbia",
   "color": "#fba",
@@ -297,7 +297,7 @@
   "year": 2008
 }, {
   "id": 34,
-  "first_name": "Rebekah",
+  "name": "Rebekah",
   "gender": "Female",
   "state": "Mississippi",
   "color": "#b32",
@@ -306,7 +306,7 @@
   "year": 1999
 }, {
   "id": 35,
-  "first_name": "Gabriello",
+  "name": "Gabriello",
   "gender": "Male",
   "state": "Alabama",
   "color": "#d02",
@@ -315,7 +315,7 @@
   "year": 2009
 }, {
   "id": 36,
-  "first_name": "Edythe",
+  "name": "Edythe",
   "gender": "Genderqueer",
   "state": "Pennsylvania",
   "color": "#b2e",
@@ -324,7 +324,7 @@
   "year": 1989
 }, {
   "id": 37,
-  "first_name": "Holly",
+  "name": "Holly",
   "gender": "Female",
   "state": "Missouri",
   "color": "#a13",
@@ -333,7 +333,7 @@
   "year": 2005
 }, {
   "id": 38,
-  "first_name": "Stefanie",
+  "name": "Stefanie",
   "gender": "Female",
   "state": "Nevada",
   "color": "#13c",
@@ -342,7 +342,7 @@
   "year": 2012
 }, {
   "id": 39,
-  "first_name": "Reed",
+  "name": "Reed",
   "gender": "Male",
   "state": "North Carolina",
   "color": "#e65",
@@ -351,7 +351,7 @@
   "year": 2012
 }, {
   "id": 40,
-  "first_name": "Alverta",
+  "name": "Alverta",
   "gender": "Male",
   "state": "Kansas",
   "color": "#cae",
@@ -360,7 +360,7 @@
   "year": 1996
 }, {
   "id": 41,
-  "first_name": "Isaac",
+  "name": "Isaac",
   "gender": "Genderfluid",
   "state": "Florida",
   "color": "#b60",
@@ -369,7 +369,7 @@
   "year": 1993
 }, {
   "id": 42,
-  "first_name": "Mikol",
+  "name": "Mikol",
   "gender": "Male",
   "state": "Texas",
   "color": "#736",
@@ -378,7 +378,7 @@
   "year": 1998
 }, {
   "id": 43,
-  "first_name": "Aldo",
+  "name": "Aldo",
   "gender": "Male",
   "state": "Kansas",
   "color": "#8c9",
@@ -387,7 +387,7 @@
   "year": 1986
 }, {
   "id": 44,
-  "first_name": "Tasia",
+  "name": "Tasia",
   "gender": "Female",
   "state": "Missouri",
   "color": "#7b9",
@@ -396,7 +396,7 @@
   "year": 2011
 }, {
   "id": 45,
-  "first_name": "Chloris",
+  "name": "Chloris",
   "gender": "Female",
   "state": "Colorado",
   "color": "#c0a",
@@ -405,7 +405,7 @@
   "year": 1992
 }, {
   "id": 46,
-  "first_name": "Cory",
+  "name": "Cory",
   "gender": "Male",
   "state": "New York",
   "color": "#2f9",
@@ -414,7 +414,7 @@
   "year": 1993
 }, {
   "id": 47,
-  "first_name": "Ricoriki",
+  "name": "Ricoriki",
   "gender": "Female",
   "state": "Pennsylvania",
   "color": "#275",
@@ -423,7 +423,7 @@
   "year": 1993
 }, {
   "id": 48,
-  "first_name": "Stephan",
+  "name": "Stephan",
   "gender": "Female",
   "state": "Colorado",
   "color": "#11f",
@@ -432,7 +432,7 @@
   "year": 2006
 }, {
   "id": 49,
-  "first_name": "Catriona",
+  "name": "Catriona",
   "gender": "Male",
   "state": "West Virginia",
   "color": "#c3e",
@@ -441,7 +441,7 @@
   "year": 2002
 }, {
   "id": 50,
-  "first_name": "Wyn",
+  "name": "Wyn",
   "gender": "Male",
   "state": "Virginia",
   "color": "#692",
@@ -450,7 +450,7 @@
   "year": 1998
 }, {
   "id": 51,
-  "first_name": "Othello",
+  "name": "Othello",
   "gender": "Male",
   "state": "District of Columbia",
   "color": "#d02",
@@ -459,7 +459,7 @@
   "year": 2010
 }, {
   "id": 52,
-  "first_name": "Lavinia",
+  "name": "Lavinia",
   "gender": "Male",
   "state": "Missouri",
   "color": "#f27",
@@ -468,7 +468,7 @@
   "year": 2005
 }, {
   "id": 53,
-  "first_name": "Aidan",
+  "name": "Aidan",
   "gender": "Female",
   "state": "Texas",
   "color": "#e2e",
@@ -477,7 +477,7 @@
   "year": 1986
 }, {
   "id": 54,
-  "first_name": "Felicia",
+  "name": "Felicia",
   "gender": "Female",
   "state": "Texas",
   "color": "#e16",
@@ -486,7 +486,7 @@
   "year": 2004
 }, {
   "id": 55,
-  "first_name": "Johnath",
+  "name": "Johnath",
   "gender": "Agender",
   "state": "Ohio",
   "color": "#56d",
@@ -495,7 +495,7 @@
   "year": 2012
 }, {
   "id": 56,
-  "first_name": "Ricki",
+  "name": "Ricki",
   "gender": "Female",
   "state": "Ohio",
   "color": "#f2f",
@@ -504,7 +504,7 @@
   "year": 2012
 }, {
   "id": 57,
-  "first_name": "Jamie",
+  "name": "Jamie",
   "gender": "Agender",
   "state": "Florida",
   "color": "#128",
@@ -513,7 +513,7 @@
   "year": 2008
 }, {
   "id": 58,
-  "first_name": "Lind",
+  "name": "Lind",
   "gender": "Male",
   "state": "Arizona",
   "color": "#7ad",
@@ -522,7 +522,7 @@
   "year": 2011
 }, {
   "id": 59,
-  "first_name": "Georgina",
+  "name": "Georgina",
   "gender": "Female",
   "state": "Minnesota",
   "color": "#b44",
@@ -531,7 +531,7 @@
   "year": 2006
 }, {
   "id": 60,
-  "first_name": "Pamela",
+  "name": "Pamela",
   "gender": "Male",
   "state": "Florida",
   "color": "#c73",
@@ -540,7 +540,7 @@
   "year": 2006
 }, {
   "id": 61,
-  "first_name": "Lucais",
+  "name": "Lucais",
   "gender": "Female",
   "state": "Virginia",
   "color": "#6e3",
@@ -549,7 +549,7 @@
   "year": 2007
 }, {
   "id": 62,
-  "first_name": "Mohandas",
+  "name": "Mohandas",
   "gender": "Female",
   "state": "Oklahoma",
   "color": "#b96",
@@ -558,7 +558,7 @@
   "year": 2010
 }, {
   "id": 63,
-  "first_name": "Putnam",
+  "name": "Putnam",
   "gender": "Male",
   "state": "Kansas",
   "color": "#934",
@@ -567,7 +567,7 @@
   "year": 1997
 }, {
   "id": 64,
-  "first_name": "Nanon",
+  "name": "Nanon",
   "gender": "Female",
   "state": "New Jersey",
   "color": "#bcc",
@@ -576,7 +576,7 @@
   "year": 2005
 }, {
   "id": 65,
-  "first_name": "Inesita",
+  "name": "Inesita",
   "gender": "Male",
   "state": "Colorado",
   "color": "#a1d",
@@ -585,7 +585,7 @@
   "year": 1992
 }, {
   "id": 66,
-  "first_name": "Brinn",
+  "name": "Brinn",
   "gender": "Female",
   "state": "Kansas",
   "color": "#b82",
@@ -594,7 +594,7 @@
   "year": 2009
 }, {
   "id": 67,
-  "first_name": "Cynthie",
+  "name": "Cynthie",
   "gender": "Male",
   "state": "Florida",
   "color": "#5be",
@@ -603,7 +603,7 @@
   "year": 1996
 }, {
   "id": 68,
-  "first_name": "Verine",
+  "name": "Verine",
   "gender": "Male",
   "state": "California",
   "color": "#96e",
@@ -612,7 +612,7 @@
   "year": 2005
 }, {
   "id": 69,
-  "first_name": "Garv",
+  "name": "Garv",
   "gender": "Male",
   "state": "Texas",
   "color": "#38c",
@@ -621,7 +621,7 @@
   "year": 1991
 }, {
   "id": 70,
-  "first_name": "Ynes",
+  "name": "Ynes",
   "gender": "Male",
   "state": "Nevada",
   "color": "#6b8",
@@ -630,7 +630,7 @@
   "year": 2002
 }, {
   "id": 71,
-  "first_name": "Jinny",
+  "name": "Jinny",
   "gender": "Female",
   "state": "New Jersey",
   "color": "#36b",
@@ -639,7 +639,7 @@
   "year": 2010
 }, {
   "id": 72,
-  "first_name": "Addi",
+  "name": "Addi",
   "gender": "Male",
   "state": "District of Columbia",
   "color": "#cc5",
@@ -648,7 +648,7 @@
   "year": 1996
 }, {
   "id": 73,
-  "first_name": "Tucky",
+  "name": "Tucky",
   "gender": "Agender",
   "state": "Minnesota",
   "color": "#b77",
@@ -657,7 +657,7 @@
   "year": 2012
 }, {
   "id": 74,
-  "first_name": "Isa",
+  "name": "Isa",
   "gender": "Male",
   "state": "Colorado",
   "color": "#b98",
@@ -666,7 +666,7 @@
   "year": 2011
 }, {
   "id": 75,
-  "first_name": "Tamas",
+  "name": "Tamas",
   "gender": "Male",
   "state": "District of Columbia",
   "color": "#e2a",
@@ -675,7 +675,7 @@
   "year": 2008
 }, {
   "id": 76,
-  "first_name": "Terri",
+  "name": "Terri",
   "gender": "Male",
   "state": "Florida",
   "color": "#fc6",
@@ -684,7 +684,7 @@
   "year": 2002
 }, {
   "id": 77,
-  "first_name": "Rosabella",
+  "name": "Rosabella",
   "gender": "Female",
   "state": "Texas",
   "color": "#c27",
@@ -693,7 +693,7 @@
   "year": 1986
 }, {
   "id": 78,
-  "first_name": "Gallard",
+  "name": "Gallard",
   "gender": "Male",
   "state": "Georgia",
   "color": "#898",
@@ -702,7 +702,7 @@
   "year": 1965
 }, {
   "id": 79,
-  "first_name": "Wendell",
+  "name": "Wendell",
   "gender": "Female",
   "state": "Idaho",
   "color": "#ebe",
@@ -711,7 +711,7 @@
   "year": 1993
 }, {
   "id": 80,
-  "first_name": "Rafa",
+  "name": "Rafa",
   "gender": "Male",
   "state": "Indiana",
   "color": "#a72",
@@ -720,7 +720,7 @@
   "year": 2008
 }, {
   "id": 81,
-  "first_name": "Lois",
+  "name": "Lois",
   "gender": "Male",
   "state": "Alabama",
   "color": "#adf",
@@ -729,7 +729,7 @@
   "year": 2000
 }, {
   "id": 82,
-  "first_name": "Ardelle",
+  "name": "Ardelle",
   "gender": "Female",
   "state": "California",
   "color": "#c14",
@@ -738,7 +738,7 @@
   "year": 2002
 }, {
   "id": 83,
-  "first_name": "Rem",
+  "name": "Rem",
   "gender": "Male",
   "state": "Kentucky",
   "color": "#57c",
@@ -747,7 +747,7 @@
   "year": 2010
 }, {
   "id": 84,
-  "first_name": "Maudie",
+  "name": "Maudie",
   "gender": "Male",
   "state": "California",
   "color": "#987",
@@ -756,7 +756,7 @@
   "year": 2002
 }, {
   "id": 85,
-  "first_name": "Venus",
+  "name": "Venus",
   "gender": "Male",
   "state": "Minnesota",
   "color": "#8a7",
@@ -765,7 +765,7 @@
   "year": 1992
 }, {
   "id": 86,
-  "first_name": "Kevin",
+  "name": "Kevin",
   "gender": "Male",
   "state": "Wisconsin",
   "color": "#171",
@@ -774,7 +774,7 @@
   "year": 2006
 }, {
   "id": 87,
-  "first_name": "Vite",
+  "name": "Vite",
   "gender": "Female",
   "state": "Mississippi",
   "color": "#9a4",
@@ -783,7 +783,7 @@
   "year": 2009
 }, {
   "id": 88,
-  "first_name": "Rogerio",
+  "name": "Rogerio",
   "gender": "Male",
   "state": "Texas",
   "color": "#d14",
@@ -792,7 +792,7 @@
   "year": 1993
 }, {
   "id": 89,
-  "first_name": "Dominique",
+  "name": "Dominique",
   "gender": "Agender",
   "state": "New York",
   "color": "#461",
@@ -801,7 +801,7 @@
   "year": 1997
 }, {
   "id": 90,
-  "first_name": "Foster",
+  "name": "Foster",
   "gender": "Female",
   "state": "New York",
   "color": "#12c",
@@ -810,7 +810,7 @@
   "year": 2002
 }, {
   "id": 91,
-  "first_name": "Roz",
+  "name": "Roz",
   "gender": "Female",
   "state": "Ohio",
   "color": "#52e",
@@ -819,7 +819,7 @@
   "year": 1985
 }, {
   "id": 92,
-  "first_name": "Giorgio",
+  "name": "Giorgio",
   "gender": "Female",
   "state": "District of Columbia",
   "color": "#957",
@@ -828,7 +828,7 @@
   "year": 2003
 }, {
   "id": 93,
-  "first_name": "Alexandros",
+  "name": "Alexandros",
   "gender": "Male",
   "state": "California",
   "color": "#09c",
@@ -837,7 +837,7 @@
   "year": 2002
 }, {
   "id": 94,
-  "first_name": "Letitia",
+  "name": "Letitia",
   "gender": "Male",
   "state": "South Carolina",
   "color": "#a91",
@@ -846,7 +846,7 @@
   "year": 1984
 }, {
   "id": 95,
-  "first_name": "Marcelo",
+  "name": "Marcelo",
   "gender": "Agender",
   "state": "Tennessee",
   "color": "#cb1",
@@ -855,7 +855,7 @@
   "year": 1993
 }, {
   "id": 96,
-  "first_name": "Jermayne",
+  "name": "Jermayne",
   "gender": "Male",
   "state": "Texas",
   "color": "#618",
@@ -864,7 +864,7 @@
   "year": 1996
 }, {
   "id": 97,
-  "first_name": "Blondell",
+  "name": "Blondell",
   "gender": "Male",
   "state": "Illinois",
   "color": "#26f",
@@ -873,7 +873,7 @@
   "year": 1996
 }, {
   "id": 98,
-  "first_name": "Eddy",
+  "name": "Eddy",
   "gender": "Male",
   "state": "District of Columbia",
   "color": "#77f",
@@ -882,7 +882,7 @@
   "year": 2010
 }, {
   "id": 99,
-  "first_name": "Brandise",
+  "name": "Brandise",
   "gender": "Genderfluid",
   "state": "California",
   "color": "#86b",
@@ -891,7 +891,7 @@
   "year": 1992
 }, {
   "id": 100,
-  "first_name": "Rickey",
+  "name": "Rickey",
   "gender": "Female",
   "state": "Texas",
   "color": "#3e9",
