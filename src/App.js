@@ -1,14 +1,15 @@
 import './App.css';
 import * as React from 'react';
 import { DataGrid } from '@mui/x-data-grid';
-import { VictoryGroup, VictoryChart, VictoryBar, VictoryAxis, VictoryPie } from 'victory';
+import { VictoryGroup, VictoryChart, VictoryBar, VictoryAxis, VictoryPie, VictoryLine, VictoryTheme } from 'victory';
 import data from './data';
 import { generateColumns,
-  carMakeTotals, averageAgeByGender } from './data-utils';
+  carMakeTotals, averageAgeByGender, averageAgeByVehicleYear } from './data-utils';
 
 const columnData = generateColumns(data);
 const carMakeTotalsData = carMakeTotals(data);
 const averageAgeByGenderData = averageAgeByGender(data);
+const averageAgeByVehicleYearData = averageAgeByVehicleYear(data);
 
 
 export default function App() {
@@ -56,6 +57,28 @@ export default function App() {
         innerRadius={50}
         colorScale={['#388659', '#52AA5E', '#52AA8A', '#3AAED8', '#2BD9FE', '#F2C14E', '#F78154', '#B4436C']}
       />
+
+      <h2>Average age of data participant by vehicle year</h2>
+      <VictoryChart
+        theme={VictoryTheme.material}
+      >
+        <VictoryGroup>
+          <VictoryLine
+            style={{
+              data: { stroke: '#c43a31' },
+              parent: { border: '1px solid #ccc' }
+            }}
+            data={averageAgeByVehicleYearData}
+          />
+        </VictoryGroup>
+        <VictoryAxis
+          style={{ tickLabels: { angle :90, fontSize: 5, textAnchor: 'start' } }}
+        />
+        <VictoryAxis
+          dependentAxis
+          tickValues={[10, 20, 30, 40, 50, 60, 70, 80, 90, 100]}
+          style={{ tickLabels: { fontSize: 10 } }} />
+      </VictoryChart>
     </>
   );
 }
