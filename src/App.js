@@ -1,23 +1,17 @@
 import * as React from 'react';
 import { DataGrid } from '@mui/x-data-grid';
-import { VictoryGroup, VictoryChart, VictoryBar, VictoryAxis } from 'victory';
+import { VictoryGroup, VictoryChart, VictoryBar, VictoryAxis, VictoryPie } from 'victory';
 
 import data from './data';
 import { generateColumns,
-  carMakeTotals } from './data-utils';
+  carMakeTotals, averageAgeByGender } from './data-utils';
 
 const columnData = generateColumns(data);
-// console.log('colData', colData);
+const carMakeTotalsData = carMakeTotals(data);
+const averageAgeByGenderData = averageAgeByGender(data);
+
 
 export default function App() {
-
-  // const driverData = [
-  //   { quarter: 1, earnings: 13000 },
-  //   { quarter: 2, earnings: 16500 },
-  //   { quarter: 3, earnings: 14250 },
-  //   { quarter: 4, earnings: 19000 }
-  // ];
-  
 
   return (
     <>
@@ -31,17 +25,11 @@ export default function App() {
         />
       </div>
 
-
       <VictoryChart>
         <VictoryGroup>
           <VictoryBar
-            data={carMakeTotals(data)}
+            data={carMakeTotalsData}
             height={300}
-            // style={{
-            //   labels: {
-            //     fontSize: 2
-            //   }
-            // }}
           />
         </VictoryGroup>
         <VictoryAxis
@@ -52,9 +40,14 @@ export default function App() {
           tickValues={[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}
           style={{ tickLabels: { fontSize: 10 } }}
         />
-        
       </VictoryChart>
 
+
+      <VictoryPie
+        data={averageAgeByGenderData}
+        height={300}
+        innerRadius={50}
+      />
     </>
   );
 }
