@@ -20,7 +20,6 @@ export function averageAgeByGender(arr) {
     return acc;
   }, {});
 
-
   const avgAge = Object.entries(allAges)
     .reduce((acc, curr) => {
       const totalAge = curr[1].reduce((acc, curr) => {
@@ -31,7 +30,6 @@ export function averageAgeByGender(arr) {
 
       return acc;
     }, {});
-  // console.log(avgAge);
 
   const entries = Object.entries(avgAge)
     .reduce((acc, curr) => {
@@ -41,7 +39,6 @@ export function averageAgeByGender(arr) {
       });
       return acc;
     }, []);
-  // console.log(entries);
   return entries;
 }
 
@@ -63,5 +60,36 @@ export function carMakeTotals(arr) {
       return acc;
     }, []);
     
+  return entries;
+}
+
+export function averageAgeByVehicleYear(arr) {
+  const ageArrByYear = arr.reduce((acc, curr) => {
+    acc[curr.car_year]
+      ? acc[curr.car_year].push(curr.age)
+      : acc[curr.car_year] = [curr.age];
+
+    return acc;
+  }, {});
+
+  const avgAge = Object.entries(ageArrByYear)
+    .reduce((acc, curr) => {
+      const totalAge = curr[1].reduce((acc, curr) => {
+        return acc + curr;
+      }, 0);
+      const average = totalAge / curr[1].length;
+      acc[curr[0]] = average;
+
+      return acc;
+    }, {});
+
+  const entries = Object.entries(avgAge)
+    .reduce((acc, curr) => {
+      acc.push({
+        x: curr[0],
+        y: curr[1]
+      });
+      return acc;
+    }, []);
   return entries;
 }
